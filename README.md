@@ -10,7 +10,7 @@ El proyecto cumple con los siguientes objetivos:
 
 ---
 
-## 🧩 Requisitos previos
+##  Requisitos previos
 
 - Android Studio Koala o superior.  
 - Gradle 8.x  
@@ -20,9 +20,10 @@ El proyecto cumple con los siguientes objetivos:
 
 ---
 
-## ⚙️ Instalación y ejecución
+##  Instalación y ejecución
 
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/tuusuario/MultiLangResponsiveApp.git
+
 
